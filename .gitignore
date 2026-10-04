@@ -1,0 +1,10 @@
+.vs/
+*.suo
+*.user
+bin/
+obj/
+*.bak
+*.mdf
+*.ldf
+Thumbs.db
+.DS_Store
