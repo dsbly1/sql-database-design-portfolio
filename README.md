@@ -2,7 +2,7 @@
 
 **Damon Bly** · B.S. Computer Science student, Columbia College · [LinkedIn](https://www.linkedin.com/in/damon-bly-71866b385/) · [GitHub](https://github.com/dsbly1)
 
-Two relational databases built in Microsoft SQL Server (T-SQL), developed from my CISS 202 Introduction to Databases coursework (Fall 2025) and extended into a complete project:
+Two relational databases built in Microsoft SQL Server (T-SQL), developed from my CISS 202 Introduction to Databases coursework and extended into a complete project:
 
 1. **[PLS School Database](pls-school-database/)** – a database I designed from scratch for a non-profit Chinese language school, taken from business rules to a working schema with constraints, views, a stored procedure, and reporting queries.
 2. **[LifeStyle Sales Query Library](lifestyle-sales-queries/)** – 60+ queries against a wholesale electronics database, organized by skill from basic SELECT through joins and transactional data changes.
@@ -102,4 +102,4 @@ Before publishing, I re-ran every assignment against a fresh database and fixed 
 
 ## Course context
 
-CISS 202 Introduction to Databases, Columbia College (8-week term, Fall 2025). Textbook: Scott, L. (2022). *Relational Database and SQL* (3rd ed.). The LifeStyleDB sample database is course-provided, and queries labeled "Example" follow the textbook's worked examples. The PLS design and build, the exercise solutions, and all revisions are my own work.
+CISS 202 Introduction to Databases, Columbia College. Textbook: Scott, L. (2022). *Relational Database and SQL* (3rd ed.). The LifeStyleDB sample database is course-provided, and queries labeled "Example" follow the textbook's worked examples. The PLS design and build, the exercise solutions, and all revisions are my own work.
